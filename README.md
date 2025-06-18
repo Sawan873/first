@@ -1,2 +1,1 @@
-# first
-this is the first file for git &amp;git hub
+THE HARDER YOU WORK THE LUCKIER YOU GET!!
